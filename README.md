@@ -99,10 +99,6 @@ Bank credit growth is a core indicator of financial system health and monetary p
 
 ---
 
-## Why This Matters for Risk & Finance Roles
-- **Credit risk stress testing** — repo rate shock effects map directly to credit risk scenarios
-- **Monetary policy transmission** — core to RBI research, CRISIL macro analysis, KPMG risk advisory
-- **Financial stability analysis** — FEVD shows relative importance of macro vs monetary shocks
 
 ---
 
